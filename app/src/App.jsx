@@ -15,7 +15,7 @@ function App() {
  
   return (
     <>
-   <div className=' text-white p-0 m-0 min-h-screen'>
+   <div className=' text-white'>
    <Navbar/>
   <BrowserRouter>
   <Suspense fallback={<Loading/>}>

@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 const Projects = () => {
   return (
     <>
-    <div className='text-black text-left flex flex-col md:flex-row justify-evenly md:mx-0 mb-20 md:mb-0 items-center pt-20'>
+    <div className='text-black text-left flex flex-col md:flex-row justify-evenly md:mx-0 mb-20 md:mb-0 items-center pt-20 px-20'>
      
      <div className="w-[400px] ">
 
@@ -55,11 +55,11 @@ User Authentication: Implemented secure login and registration using JWT authent
 
 
 
-     <div className='text-black text-left flex flex-col md:flex-row  mb-20 justify-evenly md:mx-0 mx-5 items-center pt-16'>
+     <div className='text-black text-left flex flex-col md:flex-row  mb-20 justify-evenly md:mx-0 mx-5 px-20 items-center pt-16'>
      
      <div className="w-[400px] ">
       
-      <h1 className='text-black font-extrabold text-4xl'>Netflix app</h1>
+      <h1 className='text-black font-bold text-4xl'>Netflix app</h1>
       <div className='flex gap-1 text-[11px] my-5'>
       <button className='py-1 px-2 font-semibold bg-[#121e27] text-white'>React.js</button>
         <button className='py-1 px-2 font-semibold bg-[#121e27] text-white'>Firebase</button>
