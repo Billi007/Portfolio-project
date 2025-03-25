@@ -8,10 +8,13 @@ const Projects = () => {
     <div className='text-black text-left flex flex-col md:flex-row justify-evenly md:mx-0 mx-5 mb-20 md:mb-0 items-center pt-10'>
      
      <div className="w-[400px] ">
-     <h2 className='text-black font-extrabold text-3xl'>Projects</h2>
-      <p className='font-normal text-xs my-5'>FULL STACK DEVELOPER / TECH LEAD</p>
+
+     <div className="relative inline-block text-4xl font-bold text-gray-900">
+      <span className="absolute left-0 -bottom-1 w-full h-5 bg-[#f87f6d]"></span>
+      <span className="relative">Projects</span>
+    </div>
       
-      <h1 className='text-black font-extrabold text-2xl'>Real-Time Chat Application</h1>
+      <h1 className='text-black font-bold text-4xl pt-10'>Real-Time Chat Application</h1>
       <div className='flex gap-1 text-[11px] my-5'>
       <button className='py-1 px-2 font-semibold bg-[#121e27] text-white'>Javascript</button>
         <button className='py-1 px-2 font-semibold bg-[#121e27] text-white'>MERN</button>
@@ -52,12 +55,11 @@ User Authentication: Implemented secure login and registration using JWT authent
 
 
 
-     <div className='text-black text-left flex flex-col md:flex-row  mb-20 justify-evenly md:mx-0 mx-5 items-center pt-10'>
+     <div className='text-black text-left flex flex-col md:flex-row  mb-20 justify-evenly md:mx-0 mx-5 items-center pt-16'>
      
      <div className="w-[400px] ">
-      <p className='font-normal text-xs my-5'>FULL STACK DEVELOPER / TECH LEAD</p>
       
-      <h1 className='text-black font-extrabold text-2xl'>Netflix app</h1>
+      <h1 className='text-black font-extrabold text-4xl'>Netflix app</h1>
       <div className='flex gap-1 text-[11px] my-5'>
       <button className='py-1 px-2 font-semibold bg-[#121e27] text-white'>React.js</button>
         <button className='py-1 px-2 font-semibold bg-[#121e27] text-white'>Firebase</button>

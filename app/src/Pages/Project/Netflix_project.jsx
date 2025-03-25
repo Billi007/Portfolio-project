@@ -16,7 +16,7 @@ const Netflix_project = () => {
 
   <div>
     <h1  className='font-bold text-lg'>Stack</h1>
-  <ul  className='text-[13px] my-2' >
+  <ul  className='text-[13px] md:text-lg my-2' >
     <li>React.js</li>
     <li>Firebase</li>
     <li>TailwindCSS</li>
@@ -29,7 +29,7 @@ const Netflix_project = () => {
     <ul className=' my-1'>
       <li><a 
        target='_blank'
-      className='text-[#ed6955] font-bold text-xs' 
+      className='text-[#ed6955] font-bold text-xs md:text-sm' 
       href="https://github.com/Billi007/Netflix-app">Github</a>
       </li>
     </ul>
@@ -52,9 +52,9 @@ const Netflix_project = () => {
   alt="img" />
 </div>
 
-<div className='text-slate-800 text-[14px] md:text-[14.7px] pb-10 space-y-5'>
+<div className='text-slate-800 text-[14px] md:text-[14.7px] pb-10 space-y-7'>
   <h1 className='font-bold text-2xl'>Web Stack and Explanation</h1>
-  <ol className='text-sm'>
+  <ol className='md:text-[16px]'>
  <h1 className='font-bold py-2'>Technologies Used</h1>
     <li><span className='font-extrabold'>Frontend: </span>React.js, Tailwind CSS</li>
     <li><span className='font-extrabold'>Database:  </span>Firebase</li>
@@ -63,13 +63,13 @@ const Netflix_project = () => {
 
 
 <h1 className='font-bold text-lg'>Project Description</h1>
-<p>Developed a Netflix-inspired streaming platform core built with <span className='font-bold'>React</span> for the frontend,
+<p className='md:text-lg'> Developed a Netflix-inspired streaming platform core built with <span className='font-bold'>React</span> for the frontend,
        Firebase for authentication and database, <span className='font-bold'>TailwindCSS</span> for styling,
        and <span className='font-bold'>Redux</span> for state management. The app replicates core features 
        of Netflix, including user authentication, and a responsive UI.</p>
 
 <h1 className='font-bold text-lg'>Key Features</h1>
-<ol className='text-sm'>
+<ol className='md:text-[16px]'>
   <li><span className='font-extrabold'> User Authentication: </span>Secure login and signup with Firebase Authentication.</li>
   <li><span className='font-extrabold'>Redux State Management: </span>Efficient handling of user sessions and UI states.</li>
   <li><span className='font-extrabold'>Responsive UI: </span> Fully optimized for all devices using Tailwind CSS.</li>
@@ -77,7 +77,7 @@ const Netflix_project = () => {
  
 
 <h1 className='font-bold text-lg'>What I Learned</h1>
-<ul>
+<ul className='md:text-lg'>
   <li>Gained hands-on experience with user Authentication using Firebase.</li>
   <li>Improved my skills in building responsive UIs with Tailwind CSS.</li>
   <li>Enhanced my understanding of Frontend development and Fetching API Calls</li>
