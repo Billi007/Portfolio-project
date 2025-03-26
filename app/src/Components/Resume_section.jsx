@@ -4,7 +4,7 @@ const ResumeSection = () => {
   return (
     <div className="flex justify-center items-center mt-6">
       <a
-        href="https://drive.google.com/file/d/1zTbn6zIPh5G79d0Vk4rM-y2umwhdH14s/view?usp=sharing"
+        href="https://drive.google.com/file/d/1oTePe-QrLrD39_ScIvA-mDqh8Mz1WiWO/view?usp=drive_link"
         download="My_Resume.pdf"
         className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded flex items-center"
       >
