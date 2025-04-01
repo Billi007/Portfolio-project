@@ -8,7 +8,7 @@ import Contact from "../Components/Contact";
 const Home = () => {
   return (
     <>
-      <div className="max-w-full flex flex-col justify-center items-center py-48 px-5 md:h-[900px] bg-[#121e27]">
+      <div className="max-w-full flex flex-col justify-center items-center py-48 px-5 md:h-[870px] bg-[#121e27]">
         <div className="text-4xl md:text-[3.8rem] font-normal text-left leading-14 md:leading-20 tracking-normal md:tracking-wide">
           {" "}
           Hi, I’m Tanishka |{" "}
@@ -20,7 +20,7 @@ const Home = () => {
             {" "}
             Developer
           </span>
-          <div className="text-[#ed6955] flex gap-3 text-2xl md:text-3xl my-10 cursor-pointer">
+          <div className="text-[#c55443] flex gap-3 text-2xl md:text-3xl my-10 cursor-pointer">
             <a
               target="_blank"
               href="https://github.com/Billi007"
@@ -53,7 +53,7 @@ const Home = () => {
               <MdEmail />
             </a>
           </div>
-          <p className="text-sm md:text-xl max-w-sm text-left font-thin  tracking-normal">
+          <p className="text-lg md:text-[23px] max-w-lg text-left font-thin  tracking-normal">
             I love exploring and creating 🚀 I’m a lifelong learner 🎓 and a
             good cook 🍕
           </p>

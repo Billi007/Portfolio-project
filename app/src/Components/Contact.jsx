@@ -3,12 +3,12 @@ import { GiCoffeeCup } from "react-icons/gi";
 const Contact = () => {
   return (
     <>
-    <div className='flex justify-center items-center mx-6 gap-[8%] md:gap-[10%] mt-10 py-[35%] md:py-[10%]'>
+    <div className='flex justify-center items-center mx-7 gap-[8%] md:gap-[10%] mt-10 py-[35%] md:py-[10%]'>
 
       <div className='space-y-6 text-left'>
-      <h1 className='text-[2.5rem] md:text-[3.8rem]  text-[#121e27]'>Let's have a chat</h1>
+      <h1 className='text-[2.5rem] md:text-[4rem] text-[#1e2224]'>Let's have a chat</h1>
       <p
-      className='text-[#ff5c49] font-bold text-sm'>guptatanishka2008@gmail.com</p>
+      className='text-[#ff5c49] font-bold text-sm md:text-lg'>guptatanishka2008@gmail.com</p>
        {/* <button className=' text-xm py-2 cursor-pointer px-5 bg-[#f1543b] hover:bg-[#e74c3c] font-semibold'>
         <a href='guptatanishka2008@gmail.com'>
         Get in touch

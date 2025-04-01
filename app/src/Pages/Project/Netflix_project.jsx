@@ -5,7 +5,7 @@ import img3 from '../../../public/netflix_sign.jpg'
 
 const Netflix_project = () => {
   return (
-    <div className='text-black md:max-w-4xl px-5 max-w-2xl py-10 space-y-3 flex flex-col justify-center m-auto text-left'>
+    <div className='text-black md:max-w-4xl px-7 max-w-2xl py-10 space-y-3 flex flex-col justify-center m-auto text-left'>
     <h1 className='font-bold text-3xl'>Netflix Clone app</h1>
     <p className='text-xs text-gray-700'>2 minute read</p>
     <p className='text-slate-800 text-sm md:text-[17px]'>This Netflix Clone is a fully responsive web application 

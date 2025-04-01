@@ -4,10 +4,10 @@ import img3 from '../../../public/login_page.png'
 const Chat_project = () => {
   return (
    <>
-    <div className='text-black md:max-w-4xl px-5 max-w-2xl py-10 space-y-3 flex flex-col justify-center m-auto text-left'>
+    <div className='text-black md:max-w-4xl px-7 max-w-2xl py-10 space-y-3 flex flex-col justify-center m-auto text-left'>
     <h1 className='font-bold text-3xl'>Real-Time Chat Application ( MERN )</h1>
     <p className='text-xs text-gray-700'>2 minute read</p>
-    <p className='text-slate-800 text-sm md:text-lg'>Developed a feature-rich real-time chat application 
+    <p className='text-slate-800 text-sm md:text-xl'>Developed a feature-rich real-time chat application 
   enabling users send/receive instant messages.
 The app ensures seamless communication through a responsive and user-friendly with modern styling
 interface.
