@@ -19,7 +19,7 @@ const Skills = () => {
        </div>
 
 
-       <div className='flex flex-wrap gap-1 md:w-2xl text-white w-lg px-18 md:px-10'>
+       <div className='flex flex-wrap gap-1 md:w-2xl text-white max-w-xl px-2 md:px-10'>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27] '>Javascript</button>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm  font-semibold bg-[#121e27] '>Typescript</button>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm  font-semibold bg-[#121e27]'>React</button>
@@ -27,10 +27,10 @@ const Skills = () => {
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm  font-semibold bg-[#121e27]'>Node.js</button>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>MongoDB</button>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>Firebase</button>
-        <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>Version Control</button>
-        <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>TailwindCSS</button>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>HTML</button>
         <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>CSS</button>
+        <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>TailwindCSS</button>
+        <button className='md:py-1 md:px-3 px-2 py-0.5 text-sm font-semibold bg-[#121e27]'>Version Control</button>
 
           <div className=' text-slate-800 mt-5 space-y-5 flex flex-col items-start'>
           <h1 className='font-bold md:text-xl'>I love building stuff 📱</h1>
