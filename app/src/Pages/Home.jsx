@@ -30,7 +30,7 @@ const Home = () => {
             </a>
             <a
               target="_blank"
-              href="https://www.linkedin.com/feed"
+              href="https://www.linkedin.com/in/tanishka7700/"
               className="hover:text-gray-400"
             >
               {" "}
