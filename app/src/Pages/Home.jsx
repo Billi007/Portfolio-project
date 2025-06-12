@@ -13,7 +13,7 @@ const Home = () => {
           {" "}
           Hi, I’m Tanishka |{" "}
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-500 text-3xl md:text-6xl font-black">
-            Frontend
+            Fullstack
           </span>
           <br />
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-500 text-3xl md:text-6xl font-black">
