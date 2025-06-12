@@ -35,7 +35,7 @@ const Skills = () => {
 
           <div className=' text-slate-800 mt-5 space-y-5 flex flex-col items-start'>
           <h1 className='font-bold md:text-xl'>I love building stuff 📱</h1>
-          <p className='text-left text-[17px] md:text-[19px]'>Hey! I’m a frontend developer who loves turning ideas into reality. My tech journey began at 21,
+          <p className='text-left text-[17px] md:text-[19px]'>Hey! I’m a fullstack developer who loves turning ideas into reality. My tech journey began at 21,
          and since then, I love building apps, love photography, cooking (food is my other passion), 
          exploring new places, or diving into creative hobbies.I thrive on solving problems, learning new tech, 
          and making things that matter. Coding with a cup of coffee is my greatest hobby ☕💻</p>
