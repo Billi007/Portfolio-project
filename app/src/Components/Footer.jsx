@@ -19,7 +19,7 @@ const Footer = () => {
       <p className="text-sm md:text-lg">Get in touch</p>
       <ul className="flex gap-4 text-xl md:text-2xl text-[#ed6955]">
         <li> <a target="_blank" href='https://github.com/Billi007' className='hover:text-gray-400'><FaGithub /></a></li>
-        <li> <a target="_blank" href='https://www.linkedin.com/feed' className='hover:text-gray-400'> <FaLinkedin /></a></li>
+        <li> <a target="_blank" href='https://www.linkedin.com/in/tanishka7700/' className='hover:text-gray-400'> <FaLinkedin /></a></li>
         <li> <a target="_blank" href='https://x.com/Tanisha1175' className='hover:text-gray-400'> <FaTwitter /></a></li>
         <li><a target="_blank" href='mailto:guptatanishka2008@gmail.com' className='hover:text-gray-400'> <MdEmail /></a></li>
       </ul>
